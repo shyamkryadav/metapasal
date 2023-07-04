@@ -1,0 +1,70 @@
+{
+  "seller": [
+    {
+      "name": "shyam",
+      "email": "shyamkryadv@gmail.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "sundar",
+      "email": "sundarkryadav@gmail.com",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "name": "shyam",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "shyam",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "shyam",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "shyam sundar yadav",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "shyam sundar yadav",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "shyam sundar yadav",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "shyam sundar yadav",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "shyam sundar yadav",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "shyam sundar yadav",
+      "password": "EdMJkHb2CAS@Dd8",
+      "email": "shyamkryadav@gmail.com",
+      "id": 11
+    }
+  ]
+}
